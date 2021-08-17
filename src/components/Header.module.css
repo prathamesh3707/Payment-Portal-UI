@@ -1,0 +1,28 @@
+.header {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  background-color: #9900cc;
+  display: flex;
+  flex-direction: row;
+  height: 20%;
+  border-radius: 0.5em;
+  align-items: center;
+}
+
+.header:hover {
+  background-color: #cc00ff;
+}
+
+.logo {
+  color: white;
+  font-size: 2.5em;
+  position: relative;
+  left: 2%;
+  font-weight: bold;
+  font-family: "Helvetica Neue";
+}
+.header button {
+  position: relative;
+  left: 70%;
+}

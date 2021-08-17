@@ -1,0 +1,8 @@
+.button {
+  padding: 0.5em;
+  box-shadow: 3px 3px;
+  cursor: pointer;
+  font-style: italic;
+  font-weight: bold;
+  color: darkBlue;
+}

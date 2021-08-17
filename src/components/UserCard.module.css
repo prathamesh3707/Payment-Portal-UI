@@ -1,0 +1,17 @@
+.card {
+  margin: 2rem auto;
+  width: 90%;
+  max-width: 40rem;
+  margin-top: 10em;
+  padding: 0.5em;
+}
+.card input {
+  margin-right: 2em;
+}
+.card select {
+  margin: 1em auto;
+}
+
+.card img {
+  margin: 0.5em auto;
+}
